@@ -4,6 +4,6 @@
   { "id": 3, "waktu": "08:00", "kegiatan": "Kerja", "ikon": "💻" },
   { "id": 4, "waktu": "17:45", "kegiatan": "Buka Puasa", "ikon": "dates" },
   { "id": 5, "waktu": "19:00", "kegiatan": "Sholat Tarawih", "ikon": "🌙" },
-  { "id": 6, "waktu": "21:00", "kegiatan": "Freelance", "💻": "dates" },
+  { "id": 6, "waktu": "21:00", "kegiatan": "Freelance", "ikon": "💻" },
   { "id": 7, "waktu": "00:00", "kegiatan": "Tidur", "ikon": "🌙" } 
 ]
